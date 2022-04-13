@@ -4,7 +4,7 @@
   "description": "JavaScript development environment Pluralsight course by Cory House",
   "scripts": {
   },
-  "author": "Cory House",
+  "author": "Francis Jay Yumul",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "3.6.2"
